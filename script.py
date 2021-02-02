@@ -10,8 +10,10 @@ class script(object):
         
         Click <i>/help</i> for more details....</b>"""
 
- HELP_USER = """<b>Hi, Follow these steps </b>
+        HELP_USER = """<b>Hi, Follow these steps </b>
+        
 1. Send Custom Thumbnail (It will be saved permenantly!)
+
 2. Send your zee5 url and select desired option.
 
 
