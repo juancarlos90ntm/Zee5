@@ -13,6 +13,9 @@ class script(object):
  HELP_USER = """<b>Hi, Follow these steps </b>
 1. Send Custom Thumbnail (It will be saved permenantly!)
 2. Send your zee5 url and select desired option.
+
+
+
 NOTE: Download may take some time! So please wait for it to complete!"""
 
 ABOUT_TEXT = """⭕️<b>My Name : ANS</b>
