@@ -1,14 +1,19 @@
 class script(object):
 
-    START_TEXT = """<b>Hai ,
+    START_TEXT = """<b>Hi ,
     
-I'm A simple Zee5 link downloader bot With Permanent Thumbnail Support💯.
-Please send me any Zee5 link, I can upload it to telegram as File/Video.
-Currently I'm in beta mode 🥺, If found any bugs, report @NetworkingMindNTM !
-Click <i>/help</i> for more details....</b>"""
+Hey, Nice to meet you. It's me ZEE5 video Downloader.
+    
+    Please send me any Zee5 link, I will give you that file in the form of File/Video.
+    
+        If found any bugs, report @NetworkingMindNTM 
+        
+        Click <i>/help</i> for more details....</b>"""
+    
+    Click <i>/about</i> conatact details </b>"""
 
 
-    HELP_USER = """<b>Hai, Follow these steps..</b>
+    HELP_USER = """<b>Hi, Follow these steps..</b>
  
 1. Send Custom Thumbnail (It will be saved permenantly!)
 2. Send your zee5 url and select desired option.
