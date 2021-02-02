@@ -8,7 +8,7 @@ class script(object):
     
         If found any bugs, report @NetworkingMindNTM !
         Click <i>/help</i> for more details....</b>"""
-    Click <i>/about</i> conatact details </b>"""
+    
     
  HELP_USER = """<b>Hi, Follow these steps </b>
 1. Send Custom Thumbnail (It will be saved permenantly!)
