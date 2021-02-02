@@ -9,14 +9,11 @@ class script(object):
         If found any bugs, report @NetworkingMindNTM !
         
         Click <i>/help</i> for more details....</b>"""
-    
-    
+
  HELP_USER = """<b>Hi, Follow these steps </b>
 1. Send Custom Thumbnail (It will be saved permenantly!)
 2. Send your zee5 url and select desired option.
 NOTE: Download may take some time! So please wait for it to complete!"""
-
-  
 
 ABOUT_TEXT = """⭕️<b>My Name : ANS</b>
 
@@ -27,8 +24,7 @@ ABOUT_TEXT = """⭕️<b>My Name : ANS</b>
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
 ⭕️<b>Source Code :</b> 👉 <a href='https://github.com/JuanCarlos90ntm/Zee5-Downloader'>Click Here</a>"""
-
-  
+ 
     FORMAT_SELECTION = """<b>Choose appropriate option</b> <a href='{}'>⬇️</a>
 
 🎞  - Stream format
